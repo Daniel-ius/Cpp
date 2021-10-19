@@ -1,3 +1,4 @@
+//Danielius Gaurilčikas
 #include <iostream>
 #include <vector>
 
